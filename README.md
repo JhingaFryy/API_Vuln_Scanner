@@ -40,3 +40,7 @@ This tool is for educational and ethical testing purposes only. **Do not use it 
 
 ## 👨‍💻 Author
 **Jatin** - Bug Bounty Hunter | Cybersecurity Enthusiast 🚀
+
+
+##Donate a Coffee:
+Paypal: pardeshijatin1998@gmail.com
